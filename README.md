@@ -83,3 +83,9 @@ After all you can find and try to inject any other shellcode from (Shell Storm)[
 
 #Thanks
 [LifeDJIK](https://github.com/LifeDJIK) for helping to understand some parts.
+
+#Useful links
+- [Writing Buffer Overflows](http://www.madirish.net/142)
+- [Shellcoding for Linux and Windows Tutorial](http://www.vividmachines.com/shellcode/shellcode.html)
+- [x86](https://en.wikipedia.org/wiki/X86)
+- [OWASP](https://www.owasp.org/index.php/Buffer_overflow_attack)
