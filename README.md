@@ -73,7 +73,7 @@ To completely finish your action you can do next steps:
   (gdb)
   ```
 
-After all you can find and try to inject any other shellcode from (Shell Storm)[http://shell-storm.org/shellcode/]
+After all you can find and try to inject any other shellcode from [Shell Storm](http://shell-storm.org/shellcode/)
 #Requirements
 - gcc
 - make
